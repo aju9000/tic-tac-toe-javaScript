@@ -1,4 +1,4 @@
-# TIC-TAC-TOE-JS
+# tic-tac-toe-JS
 >
 > Exercise based on the Web Dev Simplified video tutorial.
 
