@@ -1,5 +1,5 @@
 # tic-tac-toe-JS
 >
-> Exercise based on the Web Dev Simplified video tutorial.
+> A simple tic-tac-toe game.
 
 ### Practiced the basics of HTML, CSS and JS and how to properly work then in conjuction.
